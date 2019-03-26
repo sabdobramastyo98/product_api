@@ -1,0 +1,123 @@
+{
+  "products" : [{
+  "id": 1,
+  "judul": "Crab - Claws, Snow 16 - 24",
+  "harga": "$6.04"
+}, {
+  "id": 2,
+  "judul": "Muffin Chocolate Individual Wrap",
+  "harga": "$8.75"
+}, {
+  "id": 3,
+  "judul": "Buttons",
+  "harga": "$7.93"
+}, {
+  "id": 4,
+  "judul": "Dry Ice",
+  "harga": "$6.43"
+}, {
+  "id": 5,
+  "judul": "Sauce - White, Mix",
+  "harga": "$0.88"
+}, {
+  "id": 6,
+  "judul": "Wine - White, Lindemans Bin 95",
+  "harga": "$4.52"
+}, {
+  "id": 7,
+  "judul": "Cheese - Sheep Milk",
+  "harga": "$9.26"
+}, {
+  "id": 8,
+  "judul": "Wine - Red, Black Opal Shiraz",
+  "harga": "$6.45"
+}, {
+  "id": 9,
+  "judul": "Crab Brie In Phyllo",
+  "harga": "$6.47"
+}, {
+  "id": 10,
+  "judul": "Soup - Beef, Base Mix",
+  "harga": "$9.51"
+}, {
+  "id": 11,
+  "judul": "Wine - Vovray Sec Domaine Huet",
+  "harga": "$8.72"
+}, {
+  "id": 12,
+  "judul": "Halibut - Whole, Fresh",
+  "harga": "$1.30"
+}, {
+  "id": 13,
+  "judul": "Barramundi",
+  "harga": "$4.17"
+}, {
+  "id": 14,
+  "judul": "Tart Shells - Sweet, 4",
+  "harga": "$7.94"
+}, {
+  "id": 15,
+  "judul": "Beer - Sleemans Honey Brown",
+  "harga": "$7.35"
+}, {
+  "id": 16,
+  "judul": "Pork - Sausage Casing",
+  "harga": "$2.39"
+}, {
+  "id": 17,
+  "judul": "Soup - Beef, Base Mix",
+  "harga": "$6.48"
+}, {
+  "id": 18,
+  "judul": "Soup - Boston Clam Chowder",
+  "harga": "$8.00"
+}, {
+  "id": 19,
+  "judul": "Garbage Bags - Clear",
+  "harga": "$1.35"
+}, {
+  "id": 20,
+  "judul": "Haggis",
+  "harga": "$6.55"
+}, {
+  "id": 21,
+  "judul": "Island Oasis - Ice Cream Mix",
+  "harga": "$1.02"
+}, {
+  "id": 22,
+  "judul": "Syrup - Pancake",
+  "harga": "$2.49"
+}, {
+  "id": 23,
+  "judul": "Cheese - Montery Jack",
+  "harga": "$4.07"
+}, {
+  "id": 24,
+  "judul": "Cheese Cloth No 100",
+  "harga": "$1.39"
+}, {
+  "id": 25,
+  "judul": "Chips Potato Swt Chilli Sour",
+  "harga": "$5.51"
+}, {
+  "id": 26,
+  "judul": "Sterno - Chafing Dish Fuel",
+  "harga": "$9.57"
+}, {
+  "id": 27,
+  "judul": "Syrup - Monin, Swiss Choclate",
+  "harga": "$5.66"
+}, {
+  "id": 28,
+  "judul": "Chevril",
+  "harga": "$2.71"
+}, {
+  "id": 29,
+  "judul": "Jameson - Irish Whiskey",
+  "harga": "$5.31"
+}, {
+  "id": 30,
+  "judul": "Tea - Earl Grey",
+  "harga": "$7.08"
+}]
+}
